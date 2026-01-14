@@ -22,10 +22,5 @@ build/
 .DS_Store
 Thumbs.db
 
-# Archivos sensibles y datos
-*.pdf
-*.xlsx
-*.xls
-
 # Logs
 *.log
