@@ -1,0 +1,24 @@
+# File: config.py.example
+# Copiar este archivo como config.py y completar con tus credenciales
+
+users = {
+    "LUJAN": {
+        "matricula": "TU_MATRICULA_AQUI",
+        "password": "TU_PASSWORD_AQUI",
+        "procurador": "APELLIDO, NOMBRE",
+        "numero_decreto": "197/2022",
+        "fecha_decreto": "13/06/2025",
+        "municipalidad_keyname_to_search": "municipalidad",
+        "municipalidad_keyname_to_represent": "MUNICIPALIDAD DE CÓRDOBA",
+    },
+}
+
+cookies = "TUS_COOKIES_AQUI"
+
+iniciar_demanda_filename = "Guevel - Iniciar demanda - 2025 (escaneados parte 1).xlsx"
+demandas_references_filename = "Guevel - Iniciar demanda con IdReference - 2025 (parte 1).xlsx"
+demandas_sac_filename = "Guevel - Iniciar demanda con IdSAC - 2025 (parte 1).xlsx"
+titles_foldername = "escaneos 2025"
+
+digital_firmados_titles_foldername = "lujan (13-01-2026)"
+digital_firmados_iniciar_demanda_filename = "lujan (13-01-2026)_A.xlsx"
