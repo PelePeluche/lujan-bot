@@ -23,8 +23,6 @@ build/
 Thumbs.db
 
 # Archivos sensibles y datos
-carga demandas enero 2026/
-titles/
 *.pdf
 *.xlsx
 *.xls
